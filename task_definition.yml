@@ -10,6 +10,7 @@ tasks:
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
     checkerFilename: null
+    maxPoints: 1
     checkTypes:
       EXAMPLE:
         inputFilesDirectory: tests/task_1/fast/in
@@ -21,6 +22,7 @@ tasks:
     testedFunctionName: minimum
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 1
     checkerFilename: null
     checkTypes:
       EXAMPLE:
@@ -33,6 +35,7 @@ tasks:
     testedFunctionName: sum_elements
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 1
     checkerFilename: null
     checkTypes:
       EXAMPLE:
@@ -45,6 +48,7 @@ tasks:
     testedFunctionName: average
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 1
     checkerFilename: null
     checkTypes:
       EXAMPLE:
@@ -57,6 +61,7 @@ tasks:
     testedFunctionName: median
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 1
     checkerFilename: null
     checkTypes:
       EXAMPLE:
