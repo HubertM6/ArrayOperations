@@ -1,7 +1,7 @@
 Zadanie Lista Wartości
 =================
 
-W pliku `liczby.txt` podane jest n (1 <= n <= 100000) liczb z zakresu zmiennej typu int. Napisz program, dający odpowiedzi do poniższych zadań. Uzyskane odpowiedzi wypisz w konsoli lub zapisz w pliku `wyniki.txt`.
+W pliku `liczby.txt` podane jest n (1 <= n <= 100000) liczb z zakresu zmiennej typu int w osobnych linijkach. Napisz program, dający odpowiedzi do poniższych zadań. Uzyskane odpowiedzi wypisz w konsoli lub zapisz w pliku `wyniki.txt`.
 
 ### Zadanie 1
 Podaj maksymalną wartość.
